@@ -1,1 +1,1 @@
-# playwright-pytest
+# Test automation project in playwright/pytest
